@@ -1,0 +1,35 @@
+/* styles.css */
+
+/* Global styles */
+body {
+  background-image: url('../../public/images/travel0.jpg'); /* Specify the correct path to your image */
+  background-size: cover; /* Cover the entire viewport */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-attachment: fixed; /* Fixed background */
+  background-position: center center; /* Center the image horizontally and vertically */
+  background-color: #f0f0f0; /* Fallback background color */
+  /* Add other styles as needed */
+}
+
+.header {
+  background-color: #ffffcc; /* Light yellow background color */
+  padding: 10px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+ 
+.body{
+  color: #f0f0f0;
+  font-size: 16px;
+}
+.body h2{
+  color:azure;
+  font-size: 24px;
+}
+/* Add space between buttons */
+.btn-space {
+  margin-right: 19px; /* Adjust the margin as needed */
+}
+
